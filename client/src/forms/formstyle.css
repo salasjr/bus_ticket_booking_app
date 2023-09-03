@@ -1,0 +1,54 @@
+.main{
+    margin-bottom: 20px;
+    padding: 15px;
+}
+.register{
+    background-color: rgb(27, 116, 250);
+    width: 40%;
+    align-items: center;
+    margin-left: 25%;
+    font-weight: 500;
+    font-family: sans-serif;
+    font-size: 18px;
+    padding: 5px;
+    border-radius: 8px;
+}
+.register1{
+    background-color: rgb(27, 116, 250);
+    width: 80%;
+    align-items: center;
+    margin-left: 10%;
+    font-weight: 500;
+    font-family: sans-serif;
+    font-size: 18px;
+    padding: 5px;
+    border-radius: 8px;
+}
+.status{
+    width: 350px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: white;
+}
+
+.login{
+    background-color: rgb(27, 116, 250);
+    font-family: sans-serif;
+    font-size: 18px;
+    padding: 2px;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    width: 30%;
+}
+.main1{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+.back{
+    background-image: url(https://th.bing.com/th/id/R.d828678f8cbb5a924b6cc23b0b7bedf5?rik=s8DZJB7tjLPyjg&pid=ImgRaw&r=0);
+    background-size: cover;
+}
+.profile{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
